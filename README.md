@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&width=450&lines=Hi,+I'm+Priyanshu+👋" alt="Hi, I'm Priyanshu" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=60&lines=Hi%2C+I%27m+Priyanshu;Learning+Data+Science;Aspiring+Data+Scientist" alt="Hi, I'm Priyanshu | Learning Data Science" />
+</p>
 
 <p align="center">
 Aspiring Data Scientist building a strong foundation in Python, SQL and Statistics, now learning Data Analysis and Machine Learning.
